@@ -1,0 +1,5 @@
+Bank management system
+
+The bank account management system undertaken as a project is based on relevant technologies. The main aim of this project is to develop software for bank account management system. This project has been developed to carry out the processes easily and quickly, which is not possible with the manuals systems, which are overcome by this software. This project is developed using java language. organization need to effectively define and manage requirements to ensure they are meeting needs of the customer, while proving compliance and staying on the schedule and within budget.
+
+Bank management system is a software based application. This project is a model internet banking application. this site enables the customers to perform the basic banking transactions by sitting at their office or at homes through pc or laptop. The system provides the access to the customer to create an account, deposit/withdraw the cash from his account, also to view reports of all accounts present. The cutomers can access the banks app for viewing their account details and perform the transactions on account as per their requirements.
